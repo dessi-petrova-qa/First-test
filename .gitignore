@@ -1,22 +1,7 @@
-# Build folders
 bin/
 obj/
-
-# Visual Studio
 .vs/
-*.user
-*.suo
-
-# Test results
 TestResults/
-*.trx
-
-# Playwright artifacts
 .playwright/
-
-# Logs
+*.user
 *.log
-logs/
-
-# NuGet cache (по желание)
-*.nupkg
